@@ -6,3 +6,5 @@ Multiselect listview based on Material Design for Xamarin Forms in Android
 
 ![Alt text](https://github.com/seba47/XF_MultiselectAndroidMaterial/blob/master/screenshots/listview_selected.png "Populated Listview without selection" =250x)
 
+
+<img src="https://github.com/seba47/XF_MultiselectAndroidMaterial/blob/master/screenshots/listview_selected.png" width="200" height="200" />
