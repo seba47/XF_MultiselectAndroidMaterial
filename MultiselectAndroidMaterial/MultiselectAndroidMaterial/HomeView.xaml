@@ -5,7 +5,7 @@
              xmlns:CustomControls="clr-namespace:MultiselectAndroidMaterial.CustomControls;assembly=MultiselectAndroidMaterial">
 
   <StackLayout Orientation="Vertical" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" BackgroundColor="White">
-    <CustomControls:MultiselectListView x:Name="MultiSelectListView" RowHeight="56" SelectionColor="#358eb2">
+    <CustomControls:MultiselectListView x:Name="MultiSelectListView" RowHeight="56">
            
     </CustomControls:MultiselectListView> 
 </StackLayout>
